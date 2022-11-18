@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mruKulkarni
-- 👀 I’m interested in ...
-- 🌱 I’m currently ...
-- 📫 You can reach me at ....
+- 👋 Hi, I’m Mrunal
+- 👀 I’m interested in everything!
+- 🌱 I’m currently studying at PES University
+- 📫 You can reach me at mrunalgk@gmail.com
 
 <!---
 mruKulkarni/mruKulkarni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
